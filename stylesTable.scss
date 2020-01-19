@@ -1,0 +1,8 @@
+@tableProperties {
+    color: black;
+    background-color: grey;
+}
+
+tr {
+    @tableProperties;
+}

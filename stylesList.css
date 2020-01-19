@@ -1,0 +1,7 @@
+.list-group-item-primary::after {
+    content: " language";
+}
+
+.list-group-item-secondary::after {
+    content: "!";
+}
